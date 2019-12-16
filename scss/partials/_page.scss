@@ -121,6 +121,14 @@ footer {
 	text-align: center;
 }
 
+.products {
+	padding-top: 40px;
+}
+
+.shopify-buy-frame {
+	margin: 0 auto;
+}
+
 .social-profiles {
 	display: -webkit-box;
 	display: -moz-box;
@@ -227,5 +235,13 @@ footer {
 }
 
 
-
+#snow {
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+}
 
